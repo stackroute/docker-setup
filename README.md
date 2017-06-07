@@ -1,2 +1,2 @@
 # Install Docker
-After cloning this repository, run ```sudo ./install-docker.sh```
+After cloning this repository, run ```sudo ./docker-setup.sh```
